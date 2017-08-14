@@ -1,0 +1,20 @@
+Leia-me
+---------------------------------------------------
+
+1-A aplicação foi desenvolvida em Php 7.0.22 e Mysql 5.7.19.
+
+2-O MVC foi aplicado sob a estrutura do Framework Codeigniter 3.14 já incluído neste pacote.
+
+3-Copie o diretório "app" para a raiz de seu servidor web (Ex: "/var/www/html/app").
+
+4-A única configuração necessária é setar a senha de seu servidor Mysql no arquivo "app/ci/application/config/database.php".
+
+5-O script para criação da base de dados está em "app/src".
+
+6-Aplicação homologada em Linux 4.8.0-53 - Mint 18.2 (Ubuntu 16.04) 
+
+Contato
+neder.joao@gmail.com
+11 98582-3499
+
+
