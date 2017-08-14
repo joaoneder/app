@@ -13,6 +13,13 @@ Leia-me
 
 6-Aplicação homologada em Linux 4.8.0-53 - Mint 18.2 (Ubuntu 16.04) 
 
+7- O acesso deve ser feito com a seguinte url:
+
+http://localhost/app/ci/index.php/atividade/index/
+
+
+
+
 Contato
 neder.joao@gmail.com
 11 98582-3499
